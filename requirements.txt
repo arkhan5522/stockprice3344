@@ -11,4 +11,4 @@ statsmodels==0.14.1
 streamlit==1.32.2
 streamlit_option_menu==0.3.12
 yfinance==0.2.37
-tensorflow-cpu==3.14
+tensorflow-cpu==2.16.1
