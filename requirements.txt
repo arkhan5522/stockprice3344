@@ -1,3 +1,4 @@
+python>=3.0
 openpyxl==3.1.2
 keras==3.1.1
 matplotlib==3.8.3
@@ -11,4 +12,4 @@ statsmodels==0.14.1
 streamlit==1.32.2
 streamlit_option_menu==0.3.12
 yfinance==0.2.37
-tensorflow-cpu==2.16.0rc0
+tensorflow>=2.0
